@@ -9,8 +9,9 @@
 // Arrow function
 const Card = () => {
   return (
-  <div>
-    <p>Hello Card</p>
-  </div>);
+    <div>
+      <p>Hello Card</p>
+    </div>
+  );
 };
-export default Card
+export default Card;
