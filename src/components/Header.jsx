@@ -1,15 +1,11 @@
-import "../";
+import "../style/header.css";
+import Menu from "./Menu";
 
 export default function Header() {
   return (
-    <div className="Header">
+    <div className="header">
       <p>Gogo icon</p>
-      <p>News </p>
-      <p>Gogo </p>
-      <p>Gogo </p>
-      <p>Gogo </p>
-      <p>Gogo </p>
-      <p>Gogo </p>
+      <Menu />
     </div>
   );
 }
