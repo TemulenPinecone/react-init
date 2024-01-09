@@ -1,0 +1,9 @@
+.menu {
+  display: flex;
+  gap: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: darkgreen;
+}
